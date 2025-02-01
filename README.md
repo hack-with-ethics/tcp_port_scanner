@@ -11,3 +11,5 @@
 	  -o - output file name with extention [optional ] [ Eg : out.txt]
 
 	  -ip - ip address to scan via Tcp [ Required ]
+# About port config
+	This file contains the port configuration this is referred from linux port map [ Info ]
