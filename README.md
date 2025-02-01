@@ -14,5 +14,3 @@
 # About port config
 	This file contains the port configuration this is referred from linux port map [ Info ]
 
- 
-![Your paragraph text](https://github.com/user-attachments/assets/7b32ff14-67fe-46ea-a2c6-9f8dcafe55b4)
